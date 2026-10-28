@@ -1,4 +1,4 @@
-```markdown
+
 # MyCV - Personal Portfolio & Interactive Resume
 
 A dynamic, web-based CV and portfolio application built using Python (Flask), HTML5, CSS3, and JavaScript. It showcases professional experience, technical skills, projects, and educational background in a clean, responsive layout.
@@ -96,6 +96,3 @@ http://127.0.0.1:5000/
 
 This project is open-source and available under the MIT License.
 
-```
-
-```
